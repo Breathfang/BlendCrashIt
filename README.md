@@ -15,6 +15,14 @@ And yeah this is very simple to do that:
 9. Tick checkbox from `Crash Blender?:`
 10. And then Blender will crash and exit
 
+## Video Tutorial (How to 
+
+Post Source: https://www.reddit.com/r/blendermemes/comments/1jzswm5/this_geometry_node_will_let_you_to_crash_blender/
+
+https://github.com/user-attachments/assets/9791c6c4-7ab4-4eaf-a444-1b2508d99db8
+
+
+
 ## Q&A
 > Q: Why this geometry node is not working when I use newer Blender version?
 > 
